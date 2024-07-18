@@ -1,1 +1,34 @@
-{"id":"001", "name":"Alice", "selected": ["PKU001", "PKU002", "PKU003", "PKU004", "PKU005"]}
+{
+    "id": "001",
+    "name": "Alice",
+    "selected": [
+        "PKU001",
+        "PKU002",
+        "PKU003",
+        "PKU004",
+        "PKU005"
+    ],
+    "courses": [
+        {
+            "id": "PKU013",
+            "name": "Gender Studies",
+            "teacher": "Prof. Tong Xin",
+            "department": "Sociology",
+            "time": "Wed 08:00-10:00"
+        },
+        {
+            "id": "PKU012",
+            "name": "Introduction to Anthropology",
+            "teacher": "Dr. Zhu Xiaoyang",
+            "department": "Sociology",
+            "time": "Tue 14:00-16:00"
+        },
+        {
+            "id": "PKU001",
+            "name": "Chinese Political System",
+            "teacher": "Prof. Yang Chaohui",
+            "department": "International Relations",
+            "time": "Mon 10:00-12:00"
+        }
+    ]
+}
